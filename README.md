@@ -168,7 +168,8 @@ PUTCHAR_PROTOTYPE{
 ```
 
 ## Output screen shots of serial port utility   :
-![Screenshot 2025-04-17 122955](https://github.com/user-attachments/assets/3dcd7ae4-377c-4ec4-8286-adfc1ceb49fa)
+
+![image](https://github.com/user-attachments/assets/e533013a-ddb8-4813-9284-1168682e5ba1)
 
  
  ## Circuit board :
